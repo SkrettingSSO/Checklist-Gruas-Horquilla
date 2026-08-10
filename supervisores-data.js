@@ -8,7 +8,7 @@
 // ══════════════════════════════════════════════════════════════════
 const SUPERVISORES = {
   "Osorno": {
-    "Mat. Primas": { "Turno A": "cesar.constanzo@gmail.com", "Turno B": "cesar.constanzo@skretting.com", "Turno C": "" },
+    "Mat. Primas": { "Turno A": "cesar.constanzo@gmail.com", "Turno B": "cesar.constanzo@skretting.com", "Turno C": "yocelin.vallejos@skretting.com" },
     "Logística": { "Turno A": "", "Turno B": "", "Turno C": "" },
     "Producción": { "Turno A": "", "Turno B": "", "Turno C": "" }
   },
